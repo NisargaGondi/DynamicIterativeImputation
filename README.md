@@ -2,7 +2,6 @@
 
 [![IEEE](https://img.shields.io/badge/IEEE-2024-blue.svg)](https://ieeexplore.ieee.org/abstract/document/11115894)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Novel framework for handling missing values in time series data through sequential algorithm application based on dataset constraints**
 
